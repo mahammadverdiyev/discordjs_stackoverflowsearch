@@ -1,0 +1,26 @@
+{
+  "name": "@mahammadv/stackoverflow_search",
+  "version": "1.0.0",
+  "description": "Query stackoverflow question and returns Discord Embed Message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahammadverdiyev/discordjs_stackoverflowsearch.git"
+  },
+  "keywords": [
+    "stackoverflow"
+  ],
+  "author": "Mahammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahammadverdiyev/discordjs_stackoverflowsearch/issues"
+  },
+  "homepage": "https://github.com/mahammadverdiyev/discordjs_stackoverflowsearch#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1"
+  }
+}
